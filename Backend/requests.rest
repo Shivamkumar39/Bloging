@@ -1,0 +1,22 @@
+# #Accesstoken - 
+# POST  http://localhost:8080/signup
+
+# content-Type: application/json
+
+# {
+#     "fullname": "shiv",
+#     "email": "abc12@gmail.com",
+#     "password": "Abc@123"
+
+# }
+
+# Authorization: Bearer
+POST http://localhost:6500/get-blog
+Content-Type: application/json
+{
+    "blog_id": "MERN-Stack-Overview40aaJ7ZtAongm35Nccrom"
+}
+
+
+
+
